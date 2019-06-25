@@ -12,3 +12,9 @@ Currently what I want to do with my site:
     - Projects Section (This including both web and games)
     - Contact Section
     
+The color scheme for this website is:
+ - Ice: #99d3df
+ - Fresh Water: #88bbd6
+ - Plaster: #cdcdcd
+ - Linen: #e9e9e9
+ - White:#ffffff
