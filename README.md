@@ -17,4 +17,4 @@ The color scheme for this website is:
  - Fresh Water: #88bbd6
  - Plaster: #cdcdcd
  - Linen: #e9e9e9
- - White:#ffffff
+ - White: #ffffff
